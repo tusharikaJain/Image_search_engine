@@ -1,4 +1,4 @@
-const accessKey="IMK7qb8ArfiiDM1zcsA2slSTcXi3c7rA7Oeu95kE4Ds";
+const accessKey="Access key";//unsplash
 const searchForm =document.getElementById("search-form");
 const searchBox =document.getElementById("search-box");
 const searchResult =document.getElementById("search-result");
